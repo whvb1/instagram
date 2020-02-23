@@ -1,2 +1,2 @@
 this is the readme
-![](main%20screen.PNG)
+<img src="main%20screen.PNG" width="400" height="800">
