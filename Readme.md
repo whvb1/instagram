@@ -1,2 +1,2 @@
 this is the readme
-![Alt text]('main screen.PNG'?raw=true "main screen")
+![](main%20screen.PNG)
